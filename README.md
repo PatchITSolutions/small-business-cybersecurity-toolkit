@@ -2,6 +2,10 @@
 
 Welcome to the Small Business Cybersecurity Toolkit, maintained by Patch IT. This repository contains free, practical resources to help small businesses enhance their cybersecurity posture.
 
+## NIST Alignment
+
+This guide is aligned with the National Institute of Standards and Technology (NIST) Risk Management Framework (RMF). It provides a comprehensive, flexible, risk-based approach to managing information security and privacy risk, tailored for small enterprises. By following this guide, you're implementing cybersecurity best practices recognized by one of the leading authorities in the field.
+
 ## Repository Contents
 
 - **Guides**: Easy-to-follow cybersecurity guides for small businesses
@@ -18,7 +22,7 @@ Welcome to the Small Business Cybersecurity Toolkit, maintained by Patch IT. Thi
 
 ## Important Note
 
-While these resources provide a solid foundation for small business cybersecurity, they are just a starting point. Every business has unique security needs that may require professional assessment and tailored solutions.
+While these resources provide a solid foundation for small business cybersecurity aligned with NIST standards, they are just a starting point. Every business has unique security needs that may require professional assessment and tailored solutions.
 
 ## Need More Comprehensive Cybersecurity?
 
