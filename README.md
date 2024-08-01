@@ -1,5 +1,6 @@
 # Small Business Cybersecurity Toolkit
 
+![](https://komarev.com/ghpvc/?username=PatchITSolutions)
 Welcome to the Small Business Cybersecurity Toolkit, maintained by Patch IT. This repository contains free, practical resources to help small businesses enhance their cybersecurity posture.
 
 ## NIST Alignment
