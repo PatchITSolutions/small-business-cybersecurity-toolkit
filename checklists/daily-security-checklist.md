@@ -33,7 +33,5 @@ Contact us to create a comprehensive daily security checklist tailored to your o
 ### Get in Touch
 
 - **Email:** contact [@] patchitsolutions.ca
-- **Phone:** [Your Phone Number]
-- **Website:** [Your Website]
 
 Let us help you strengthen your organization's security posture!
